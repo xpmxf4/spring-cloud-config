@@ -1,7 +1,7 @@
 token:
  expiration_time: 864000000
  secret: user_token_dev_changed
- new_field: new_field_to_test
+ new_field: new_field_to_test#2
 
 gateway:
  ip: 172.17.0.56
