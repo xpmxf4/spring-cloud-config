@@ -11,3 +11,5 @@ token:
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
+  exception:
+    orders_is_empty: User's orders is Empty
